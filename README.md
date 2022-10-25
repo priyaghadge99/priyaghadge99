@@ -1,7 +1,6 @@
 - 👋 Hi All, I’m Priya Ghadge
 - 👀 I’m interested in ...to Learn n grow ...!!
 - 🌱 I’m currently learning Data-structure, docker, AWS 
-- 💞️ I’m looking to collaborate on ...
 - 📫 if you have any query reach out to me at priyaghadge59@gmail.com
 
 <!---
